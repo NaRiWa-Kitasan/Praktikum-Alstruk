@@ -1,7 +1,7 @@
 angka = input()
 angka = int(angka)
-penentu = int(angka)/2
-if penentu == 1:
+penentu = int(angka)%2
+if penentu == 0:
     print('Genap')
 else:
     print('Ganjil')

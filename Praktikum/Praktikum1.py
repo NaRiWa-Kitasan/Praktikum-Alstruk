@@ -11,8 +11,5 @@ print(type(nama),type(umur),type(berat),type(terdaftar))
 umur = 20
 print(umur)
 #Jadi berubah nilainya
-
 #4. Jelaskan perbedaan "19" dan 19.
 #Beda typedatanya 
-print(nama,umur,berat,terdaftar)
-print(type(nama),type(umur),type(berat),type(terdaftar))
